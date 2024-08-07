@@ -8,12 +8,12 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['201151094460', ' كاتاكوري', true],
+  ['212658594530', ' كاتاكوري', true],
 ];
 
 global.xaxa = 'kata'
-global.suittag = ['967730068059', '967730068059'];
-global.prems = ['967730068059', '967730068059'];
+global.suittag = ['212658594530', '967730068059'];
+global.prems = ['21265859453p', '967730068059'];
 
 global.packname = '⛩️┃🏮𝑊𝐴𝑁𝛩🏮┃⛩️ ';
 global.author = '⛩️┃🏮𝑊𝐴𝑁𝛩🏮┃⛩️';
@@ -49,7 +49,7 @@ global.mysticbot = 'https://whatsapp.com/channel/0029VaZXG8M1CYoM3UrsaE1D';
 global.waitt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 global.waittt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 global.waitttt = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
-global.nomorown = '+967730068059';
+global.nomorown = '+212658594530';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
